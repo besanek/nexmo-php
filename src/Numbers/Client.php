@@ -140,7 +140,9 @@ class Client implements ClientAwareInterface
         $possibleParameters = [
             'search_pattern',
             'size',
-            'index'
+            'index',
+            'has_application',
+            'application_id'
         ];
 
         foreach ($options as $param => $value) {
