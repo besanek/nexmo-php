@@ -1,5 +1,5 @@
 {
-  "name": "nexmo/client-core",
+  "name": "nexmo/client",
   "description": "PHP Client for using Nexmo's API.",
   "license": "MIT",
   "type": "library",
